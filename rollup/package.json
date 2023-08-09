@@ -1,0 +1,23 @@
+{
+    "name": "@wsk1113/vue-directive-sk",
+    "version": "0.1.0",
+    "private": false,
+    "description": "a vue+ts based highly popular custom hooks lib",
+    "main": "bundle.es.js",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "vue3",
+        "hooks",
+        "v-useCountdown",
+        "v-useRequest",
+        "v-useFormValidator"
+    ],
+    "author": "wsk1113",
+    "license": "ISC",
+    "peerDependencies": {
+        "vue": "^3.0.0"
+    }
+}

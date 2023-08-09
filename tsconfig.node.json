@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+
+    // 允许同步默认导入（没办法tree-shaking）
+    // import xx from "xxxx"
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"]
+}
